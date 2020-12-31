@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/test_travis_react/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/test_travis_react/static/js/main.831b9738.chunk.js",
-    "main.js.map": "/test_travis_react/static/js/main.831b9738.chunk.js.map",
-    "runtime-main.js": "/test_travis_react/static/js/runtime-main.357a1644.js",
-    "runtime-main.js.map": "/test_travis_react/static/js/runtime-main.357a1644.js.map",
-    "static/js/2.311d60e9.chunk.js": "/test_travis_react/static/js/2.311d60e9.chunk.js",
-    "static/js/2.311d60e9.chunk.js.map": "/test_travis_react/static/js/2.311d60e9.chunk.js.map",
-    "static/js/3.73a1c5a5.chunk.js": "/test_travis_react/static/js/3.73a1c5a5.chunk.js",
-    "static/js/3.73a1c5a5.chunk.js.map": "/test_travis_react/static/js/3.73a1c5a5.chunk.js.map",
+    "main.css": "/test_travis_react/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/test_travis_react/static/js/main.194ea6ee.chunk.js",
+    "main.js.map": "/test_travis_react/static/js/main.194ea6ee.chunk.js.map",
+    "runtime-main.js": "/test_travis_react/static/js/runtime-main.108e2ac2.js",
+    "runtime-main.js.map": "/test_travis_react/static/js/runtime-main.108e2ac2.js.map",
+    "static/js/2.7599c84a.chunk.js": "/test_travis_react/static/js/2.7599c84a.chunk.js",
+    "static/js/2.7599c84a.chunk.js.map": "/test_travis_react/static/js/2.7599c84a.chunk.js.map",
+    "static/js/3.63fb59fc.chunk.js": "/test_travis_react/static/js/3.63fb59fc.chunk.js",
+    "static/js/3.63fb59fc.chunk.js.map": "/test_travis_react/static/js/3.63fb59fc.chunk.js.map",
     "index.html": "/test_travis_react/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/test_travis_react/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.311d60e9.chunk.js.LICENSE.txt": "/test_travis_react/static/js/2.311d60e9.chunk.js.LICENSE.txt",
+    "static/css/main.ab7136cd.chunk.css.map": "/test_travis_react/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.7599c84a.chunk.js.LICENSE.txt": "/test_travis_react/static/js/2.7599c84a.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/test_travis_react/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.357a1644.js",
-    "static/js/2.311d60e9.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.831b9738.chunk.js"
+    "static/js/runtime-main.108e2ac2.js",
+    "static/js/2.7599c84a.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.194ea6ee.chunk.js"
   ]
 }
